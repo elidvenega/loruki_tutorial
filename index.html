@@ -39,7 +39,9 @@
             </div>
             <div class="showcase-form card">
                 <h2>Request a demo</h2>
-                <form>
+                <form name="contact" method="POST" netlify-honeypot="bot-field" 
+                data-netlify="true">
+                    <input type="text" name="name" placeholder="Name">
                     <div class="form-control">
                         <input type="text" name="name" placeholder="Name" required>
                     </div>
