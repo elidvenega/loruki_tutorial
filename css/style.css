@@ -1,7 +1,7 @@
 :root {
-    --primary-color: #047aed;
+    --primary-color: #27ae60;
     --secondary-color: #1c3fa8;
-    --dark-color: #002240;
+    --blue-color: #2980b9;
     --light-color: #f4f4f4;
     --success-color: #5cb85c;
     --error-color: #d9534f;
@@ -362,7 +362,7 @@ pre {
 /* Mobile */
 @media(max-width: 500px) {
     .navbar {
-        height: 110px;
+        height: 100px;
     }
 
     .navbar .flex {
@@ -373,4 +373,13 @@ pre {
         padding: 10px;
         background-color: rgba(9, 0, 0, 0.1);
     }
+
+    .showcase-form {
+        width: 300px;
+    }
 }
+
+
+
+
+
