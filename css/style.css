@@ -369,6 +369,11 @@ pre {
         flex-direction: column;
     }
 
+    .navbar .logo {
+        font-size: 30px;
+        font-weight: normal;
+    }
+
     .navbar ul {
         padding: 10px;
         background-color: rgba(9, 0, 0, 0.1);
@@ -378,8 +383,3 @@ pre {
         width: 300px;
     }
 }
-
-
-
-
-
