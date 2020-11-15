@@ -29,6 +29,12 @@
     border: 1px #fff solid;
 }
 
+.btn-outline:hover {
+    background-color: #fff;
+    color: var(--primary-color);
+    font-size: 17px;
+}
+
 .btn:hover {
     transform: scale(0.98);
 }

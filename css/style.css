@@ -144,10 +144,10 @@ pre {
     right: 0;
     left: 0;
     background: #fff;
-    transform: skewY(-3deg);
-    --webkit-transform: skewY(-3deg);
-    -moz-transform: skewY(-3deg);
-    -ms-transform: skewY(-3deg);
+    transform: skewY(-2deg);
+    --webkit-transform: skewY(-2deg);
+    -moz-transform: skewY(-2deg);
+    -ms-transform: skewY(-2deg);
 }
 
 /* Stats */
@@ -367,11 +367,11 @@ pre {
     }
 
     .cloud h2 {
-        font-size: 30px;
+        font-size: 25px;
     }
 
     .footer h1 {
-        font-size: 30px;
+        font-size: 25px;
     }
 }
 
